@@ -20,7 +20,7 @@ app.get("/", function(req,res){
         numberOfKidneys,
         numberOfUnhealthyKidneys,
         numberOfhealthyKidneys,
-        message:"hello from feature branch A"
+        message:"hello from feature branch B"
     })
 });
 
